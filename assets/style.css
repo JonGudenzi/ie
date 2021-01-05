@@ -1,0 +1,34 @@
+#ieLogo{
+    width: 70%;
+}
+
+.application{
+    margin-left: 20px;
+}
+
+.shopNav{
+    margin-left: 15%;
+
+}
+
+.card{
+    margin: 10px;
+}
+
+.card:hover{
+    border: turquoise 3px solid;
+    border-radius: 15px;
+}
+
+.textLink{
+    text-decoration: none;
+    color: black;
+}
+
+.textLink:hover{
+color:black;
+}
+
+.itemImage{
+    height: 200px;
+}
